@@ -1,2 +1,6 @@
-#map { height: 1000px;
-        width: 1000px;}
+#map { height: 750px;
+        width: 750px;}
+h1{
+        background-image: linear-gradient(to right, rgb(21, 49, 109), rgb(45, 88, 182));
+        color:white;
+}
