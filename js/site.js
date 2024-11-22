@@ -4,9 +4,10 @@ function search() {
   
     // Define list of colleges with vending machines (hard-coded)
     var colleges = [
-      { name: "College Nine", url: "college-nine.html" },
-      { name: "College Ten", url: "college-ten.html" },
-      { name: "Porter College", url: "porter-college.html" }
+      { name: "Kresge College", url: "kresge/index.html" },
+      { name: "Rachel Carson College", url: "rcc/index.html" },
+      { name: "Oakes College", url: "oakes/index.html" },
+      { name: "Porter College", url: "porter/index.html" }, 
       ];
   
      // Iterate through the colleges array and find matching ones
