@@ -6,7 +6,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 L.marker([36.98965767376031, -122.06282345678684]).addTo(map)
-    .bindPopup('A pretty CSS popup.<br> Easily customizable.')
+    .bindPopup('<div class="popup-one"> <strong> Oakes Academic Building </strong> <br> Type: Beverages <br> Rating: 4 out of 5 <br> Notes: It has red and blue gatorade! </div>')
     .openPopup();
 
 L.marker([36.98906340010889, -122.06322484048678]).addTo(map)
