@@ -1,7 +1,7 @@
 let pins = [
 
-    {loc1: 36.997615, loc2:  -122.06579, descr: "A pretty CSS popup.<br> Easily customizable"},
-    {loc1: 36.997472, loc2:  -122.066774, descr: "A pretty CSS popup.<br> Easily customizable"},
+    {loc1: 36.997615, loc2:  -122.06579, descr: "Kresge Laundry Room"},
+    {loc1: 36.994241, loc2:  -122.065712, descr: "Porter Store"},
 
 
 ];
@@ -12,7 +12,7 @@ console.log(pins[1].loc2);
 
 
 
-var map = L.map('map').setView([36.997592, -122.06627], 17
+var map = L.map('map').setView([36.996195, -122.065423], 17
 );
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
