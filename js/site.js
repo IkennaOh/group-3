@@ -25,7 +25,7 @@ function search() {
       { name: "Cowell", url: "Cowell/index.html"},
       { name: "Crown", url: "crown/index.html"},
       { name: "McHenry", url: "baskinarts/index.html"},
-      { name: "Oakes", url: "oakes/index.html" },
+      { name: "oakes", url: "oakes/index.html" },
       { name: "Kresge", url: "porterkresge/index.html" },
       { name: "RCC", url: "rcc/index.html" },
       { name: "Music", url: "baskinarts/index.html"},
