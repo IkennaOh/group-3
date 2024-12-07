@@ -19,6 +19,18 @@ function search() {
       { name: "College Nine", url: "C9/index.html"},
       { name: "Merrill College", url: "merrill/index.html"},
       { name: "Stevenson College", url: "Stevenson/index.html"},
+      { name: "Stevenson", url: "Stevenson/index.html"},
+      { name: "Merrill", url: "merrill/index.html"},
+      { name: "JRL", url:"JRL/index.html"},
+      { name: "Cowell", url: "Cowell/index.html"},
+      { name: "Crown", url: "crown/index.html"},
+      { name: "McHenry", url: "baskinarts/index.html"},
+      { name: "Oakes", url: "oakes/index.html" },
+      { name: "Kresge", url: "porterkresge/index.html" },
+      { name: "RCC", url: "rcc/index.html" },
+      { name: "Music", url: "baskinarts/index.html"},
+      { name: "Music building", url: "baskinarts/index.html"},
+      { name: "Theatre building", url: "baskinarts/index.html"},
       ];
   
      // Iterate through the colleges array and find matching ones
