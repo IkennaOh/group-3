@@ -18,7 +18,7 @@ L.marker([36.9995776, -122.0618475]).addTo(map)
 
 
 L.marker([36.9986701, -122.0605268]).addTo(map)
-.bindPopup('<div class="popupThree"> <strong> Natural Sciences 2 Building, Second Floor </strong> <br> Type: Soda and Snack <br> Rating: 4 out of 5 <br>] </div>')
+.bindPopup('<div class="popupThree"> <strong> Natural Sciences 2 Building, Second Floor </strong> <br> Type: Soda and Snack <br> Rating: 4 out of 5 <br> </div>')
 .openPopup();
 
 
