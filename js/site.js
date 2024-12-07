@@ -8,7 +8,7 @@ function search() {
     var colleges = [
       { name: "Kresge College", url: "porterkresge/index.html" },
       { name: "Rachel Carson College", url: "rcc/index.html" },
-      { name: "Oakes College", url: "oakes/index.html" },
+      { name: "Oakes college", url: "oakes/index.html" },
       { name: "Porter College", url: "porterkresge/index.html" }, 
       { name: "Baskin Arts", url: "baskinarts/index.html"},
       { name: "Science Hill", url: "sciencehill/index.html"},

@@ -1,7 +1,19 @@
-#map { height: 800px;
-    width: 800px;}
+#map { height: 700px;
+    width: 1510px;}
 
 h1{
     background-image: linear-gradient(to right, rgb(21, 49, 109), rgb(45, 88, 182));
     color:white;
+}
+
+h2{
+    color: #333;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-weight: bold;
+    font-size: 15px;
+    text-shadow: 1px rgba(0,0,0,0.3);
+}
+
+.background{
+    color:aquamarine;
 }
