@@ -1,4 +1,6 @@
 function search() {
+   // Check if the Enter key was pressed (key code 13)
+   if (event.keyCode === 13) { 
     // Get content of input field
     var query = document.getElementById("searchInput").value.toLowerCase();
   
@@ -27,3 +29,4 @@ function search() {
         }
      }
   }
+}
