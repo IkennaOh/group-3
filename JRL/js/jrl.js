@@ -1,4 +1,4 @@
-var map = L.map('map').setView([37.00068497450312, -122.05852230235037], 17);
+var map = L.map('map').setView([37.0003993, -122.059586], 18);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -14,7 +14,7 @@ L.marker([37.003354, -842.058537]).addTo(map)
     .openPopup();
 
 L.marker([37.000621, -842.057805]).addTo(map)
-    .bindPopup('<div class="popupThree"> <strong> Recreation Room underneath the Dining Hall (requires a 9/JRL ID to enter) (lie the dorms) </strong> <br> Type: Snacks & Beverages <br> Rating: 3 out of 5 <br> </div>')
+    .bindPopup('<div class="popupThree"> <strong> Recreation Room underneath the Dining Hall (requires a 9/JRL ID to enter) (like the dorms) </strong> <br> Type: Snacks & Beverages <br> Rating: 3 out of 5 <br> </div>')
     .openPopup();
 
 L.marker([37.002666, -842.058859]).addTo(map)
