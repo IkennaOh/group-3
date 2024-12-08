@@ -26,3 +26,7 @@ L.marker([36.998982, -122.060592]).addTo(map)
 L.marker([36.9989572, -122.0606102]).addTo(map)
 .bindPopup('<div class="popupFive"> <strong> Science and Engineering Library, Third Floor </strong> <br> Type: Soda and Snack <br> Rating: 4 out of 5 <br> Notes: Includes healthy snack trays, can be quite expensive though. </div>')
 .openPopup();
+
+L.marker([37.000698, -122.061498]).addTo(map)
+.bindPopup('<div class="popupFive"> <strong> Communications Building, First Floor by the media checkout </strong> <br> Type: Soda and Snack <br> Rating: 2 out of 5 <br> </div>')
+.openPopup();
