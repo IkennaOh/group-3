@@ -24,3 +24,7 @@ L.marker([36.995664, -122.059114]).addTo(map)
 L.marker([36.995276, -122.058867]).addTo(map)
     .bindPopup('<div class="popupFive"> <strong> McHenry Library, Main Floor  </strong> <br> Type: Snacks & Beverages <br> Rating: 4 out of 5 <br> </div>')
     .openPopup();
+
+L.marker([36.996214, -122.056872]).addTo(map)
+    .bindPopup('<div class="popupSix"> <strong> Hahn Student Services, First Floor </strong> <br> Type: Snacks & Beverages <br> Rating: 4 out of 5 <br> </div>')
+    .openPopup();
