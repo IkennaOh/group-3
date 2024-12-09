@@ -42,3 +42,12 @@ function search() {
      }
   }
 }
+
+document.getgetElementById('search-button').addEventListener('click', function() {
+  var query = document.getElementById('search').value; 
+  if (query) { 
+    alert('You searched for: ' + query); 
+    // You can replace the alert with other functionality, such as sending the query to a server or searching a database 
+    } else { 
+      alert('Please enter a search term'); } }
+    );
