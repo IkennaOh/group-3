@@ -8,9 +8,14 @@
 }
 
 h1{
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Arial Narrow';
   font-size: 30px;
 }
+
+
+div {
+font-family: Verdana;
+line-height: 25px;}
 
 .location{
     padding: 10px;
