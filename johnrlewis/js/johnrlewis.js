@@ -10,7 +10,7 @@ L.marker([37.001683, -842.059132]).addTo(map)
     .openPopup();
 
 L.marker([37.003354, -842.058537]).addTo(map)
-    .bindPopup('<div class="popupThree"> <strong> International Living Center, Laundry room (behind Social Sciences 1) </strong> <br> Type: Snacks & Beverages <br> Rating: 3 out of 5 <br> </div>')
+    .bindPopup('<div class="popupTwo"> <strong> International Living Center, Laundry room (behind Social Sciences 1) </strong> <br> Type: Snacks & Beverages <br> Rating: 3 out of 5 <br> </div>')
     .openPopup();
 
 L.marker([37.000621, -842.057805]).addTo(map)
