@@ -17,8 +17,12 @@
 h1{
     background-image: linear-gradient(to right, rgb(21, 49, 109), rgb(45, 88, 182));
     color:white;
+    font-family: Verdana;
 }
 
+p {
+    font-family: Verdana;
+}
 h2{
     color: #333;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
