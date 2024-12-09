@@ -1,7 +1,19 @@
 #map { height: 1380px;
-    width: 1380px;}
+    width: 1380px;
+}
 
 h1{
     background-image: linear-gradient(to right, rgb(21, 49, 109), rgb(45, 88, 182));
     color:white;
 }
+
+.container {
+    display: flex;
+}
+
+.map-container {
+    width: 70%; /* Adjust the width as needed */
+}
+
+#map { height: 700px;
+    width: 1060px;}
