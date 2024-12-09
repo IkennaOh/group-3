@@ -1,7 +1,19 @@
 #map { height: 1380px;
     width: 1380px;}
 
+
 h1{
     background-image: linear-gradient(to right, rgb(21, 49, 109), rgb(45, 88, 182));
     color:white;
+    font-family: Verdana;
+}
+
+p {
+    font-family: Verdana;
+    text-shadow: 1px rgba(0,0,0,0.3);
+    background-color: #f6ead5;
+    padding: 5px;
+    border-radius: 10px;
+    border-width: thin;
+    border-style: solid;
 }
